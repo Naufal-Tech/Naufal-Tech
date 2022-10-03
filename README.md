@@ -1,3 +1,4 @@
+<h1 align="center">Salam Kenal Guys! 🙏 </h1>
 <img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg" align-text="center" width="100%" align="center" valign="center">
 <h1 align="center">Hi 👋, I'm name is <a href="https://www.linkedin.com/in/naufalfaruq/" target="_blank">Naufal</a></h1>
 <h3 align="center">A Passionate Fullstack Developer from Jakarta (Indonesia).</h3>
@@ -5,9 +6,6 @@
 
 
 <img align-text="center" alt="coding" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="100%" height="100%" align="center" valign="center">
-
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=naufal-tech&label=Profile%20views&color=0e75b6&style=flat" alt="naufal-tech" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naufal-tech" alt="naufal-tech" /></a> </p>
 
@@ -60,3 +58,9 @@
 <p align="center" align-text="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=naufal-tech&show_icons=true&locale=en&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" alt="naufal-tech"/></p>
 
 <p align="center" align-text="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naufal-tech&theme=dark" alt="naufal-tech"/></p>
+
+<div align = "center">
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/naufal-tech/count.svg)
+</div>
+
