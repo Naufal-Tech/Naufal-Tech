@@ -14,7 +14,6 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naufal-tech&theme=gruvbox" alt="naufal-tech" /></a>
 </p>
 
-
 <p align="center"> <a href="https://twitter.com/centerinquiry" target="blank"><img src="https://img.shields.io/twitter/follow/centerinquiry?logo=twitter&style=for-the-badge" alt="centerinquiry" /></a>
 </p>
 <br>
@@ -65,11 +64,18 @@
 <h2>🏆 Github Stats</h2>
 &nbsp;
 
+<p align="center">
+<a href="https://github.com/pulls?q=is%3Apr+author%3ANaufal-Tech+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naufal-Tech&theme=github_dark&utcOffset=4"  width="31%" alt="@Naufal-Tech's  productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3ANaufal-Tech+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naufal-Tech&theme=github_dark&hide_border=true"  width="64%" alt="@Naufal-Tech's profile-detailsprofile-details"/></a>
+</p>
+
 <p align="center" align-text="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=naufal-tech&show_icons=true&locale=en&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" alt="naufal-tech" width="45%"/></p>
 
-<p align="center" align-text="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=naufal-tech&show_icons=true&locale=en&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" alt="naufal-tech"/></p>
+<p align="center">
+<a href="https://github.com/Naufal-Tech?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Naufal-Tech&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="@Naufal-Tech's github-readme-stats"/></a>
+<a href="https://github.com/Naufal-Tech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Naufal-Tech&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Naufal-Tech's github-readme-streak-stats"/></a>
+</p>
 
-<p align="center" align-text="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naufal-tech&theme=dark" alt="naufal-tech"/></p>
 
 [![Naufal's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=naufal-tech&theme=xcode)](https://github.com/naufal-tech)
 
