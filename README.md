@@ -18,7 +18,9 @@
 <p align="center"> <a href="https://twitter.com/centerinquiry" target="blank"><img src="https://img.shields.io/twitter/follow/centerinquiry?logo=twitter&style=for-the-badge" alt="centerinquiry" /></a>
 </p>
 <br>
-
+<h2 align="center">🌱 Currently Learning:</h2>
+<br>
+&nbsp;
 - 🔭 I’m currently working on [NPN](http://loklcoffee.herokuapp.com/)
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, Node Js, React Js, Next Js, Postgres, Mongo DB (PERN and MERN).**
@@ -71,3 +73,13 @@
 
 [![Naufal's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=naufal-tech&theme=xcode)](https://github.com/naufal-tech)
 
+
+<p align="center">
+<a href="https://github.com/Naufal-Tech?tab=following"><img src="https://img.shields.io/github/stars/Naufal-Tech?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
+<a href="https://github.com/Naufal-Tech?tab=followers"><img src="https://img.shields.io/github/followers/Naufal-Tech?&logoColor=red&style=social" alt="GitHub followers"></a>
+</p>
+
+
+<p align="center">
+<a href="https://gist.github.com/Naufal-Tech"><img src="https://profile-counter.glitch.me/{Naufal-Tech}/count.svg" alt="Naufal-Tech :: Visitor's Count" /></a>
+</p>
