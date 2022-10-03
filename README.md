@@ -59,8 +59,3 @@
 
 <p align="center" align-text="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naufal-tech&theme=dark" alt="naufal-tech"/></p>
 
-<div align = "center">
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/naufal-tech/count.svg)
-</div>
-
