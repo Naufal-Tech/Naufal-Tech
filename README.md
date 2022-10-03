@@ -7,9 +7,17 @@
 
 <img align-text="center" alt="coding" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="100%" height="100%" align="center" valign="center">
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naufal-tech" alt="naufal-tech" /></a> </p>
+&nbsp;
+<h2 align="center">GitHub Trophies 🏆</h2>
+&nbsp;
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naufal-tech&theme=gruvbox" alt="naufal-tech" /></a>
+</p>
 
-<p align="center"> <a href="https://twitter.com/centerinquiry" target="blank"><img src="https://img.shields.io/twitter/follow/centerinquiry?logo=twitter&style=for-the-badge" alt="centerinquiry" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/centerinquiry" target="blank"><img src="https://img.shields.io/twitter/follow/centerinquiry?logo=twitter&style=for-the-badge" alt="centerinquiry" /></a>
+</p>
+<br>
 
 - 🔭 I’m currently working on [NPN](http://loklcoffee.herokuapp.com/)
 
@@ -31,6 +39,7 @@
 &nbsp;
 
 <p align="center">
+<img align="center" src="https://i.dlpng.com/static/png/7039439_preview.png" alt="naufal-tech" height="70" width="150"/>
 <a href="https://codepen.io/naufal-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="naufal-tech" height="30" width="40" /></a>
 <a href="https://twitter.com/centerinquiry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="centerinquiry" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/naufalfaruq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naufalfaruq" height="30" width="40" /></a>
@@ -39,6 +48,7 @@
 <a href="https://instagram.com/@naufal.fru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@naufal.fru" height="30" width="40" /></a>
 <a href="https://www.behance.net/naufalwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="naufalwork" height="30" width="40" /></a>
 <a href="https://discord.gg/Scieneer#5954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Scieneer#5954" height="30" width="40" /></a>
+<img align="center" src="https://i.dlpng.com/static/png/7039439_preview.png" alt="naufal-tech" height="70" width="150"/></a>
 </p>
 
 &nbsp;
@@ -58,4 +68,6 @@
 <p align="center" align-text="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=naufal-tech&show_icons=true&locale=en&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" alt="naufal-tech"/></p>
 
 <p align="center" align-text="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naufal-tech&theme=dark" alt="naufal-tech"/></p>
+
+[![Naufal's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=naufal-tech&theme=xcode)](https://github.com/naufal-tech)
 
