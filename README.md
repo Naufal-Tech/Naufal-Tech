@@ -1,6 +1,7 @@
 <img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg" align-text="center" width="100%" align="center" valign="center">
 <h1 align="center">Hi 👋, I'm name is <a href="https://www.linkedin.com/in/naufalfaruq/" target="_blank">Naufal</a></h1>
 <h3 align="center">A Passionate Fullstack Developer from Jakarta (Indonesia).</h3>
+<h4 align="center"> 📩 Feel free to reach me at naufal.geo11@gmail.com.</h4>
 
 
 <img align-text="center" alt="coding" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="100%" height="100%" align="center" valign="center">
