@@ -75,6 +75,15 @@
 
 <h2 align="center">🏆 GitHub Stats</h2>
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naufal-Tech/Naufal-Tech/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naufal-Tech/Naufal-Tech/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Naufal-Tech/Naufal-Tech/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=naufal-tech&theme=gruvbox" alt="naufal-tech trophies" />
   </a>
