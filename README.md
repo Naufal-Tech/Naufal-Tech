@@ -74,37 +74,35 @@
 <br>
 
 <h2 align="center">🏆 GitHub Stats</h2>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=naufal-tech&theme=gruvbox&no-frame=true&no-bg=true" alt="naufal-tech trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Naufal-Tech&theme=gruvbox&no-frame=true&no-bg=true&margin=w" alt="naufal-tech trophies" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/Naufal-Tech">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naufal-Tech&theme=github_dark&hide_border=true" width="55%" alt="@Naufal-Tech's profile-details"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naufal-Tech&theme=github_dark&hide_border=true" alt="@Naufal-Tech's profile-details"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naufal-tech&show_icons=true&locale=en&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" alt="naufal-tech top langs" width="40%"/>
 </p>
-
 <p align="center">
-  <a href="https://github.com/Naufal-Tech?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Naufal-Tech&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="@Naufal-Tech's github-readme-stats"/>
+  <a href="https://github.com/Naufal-Tech">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naufal-Tech&layout=compact&theme=github_dark" alt="Top Langs" />
   </a>
-  <a href="https://github.com/Naufal-Tech?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Naufal-Tech&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Naufal-Tech's github-readme-streak-stats"/>
+  <a href="https://github.com/Naufal-Tech">
+    <img src="https://github-readme-stats.vercel.app/api?username=Naufal-Tech&theme=github_dark&show_icons=true&count_private=true" alt="Github Stats" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/Naufal-Tech?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Naufal-Tech&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/naufal-tech">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naufal-Tech&theme=xcode&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Naufal's Github Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naufal-Tech&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Naufal's Github Activity Graph">
   </a>
 </p>
-
 <p align="center">
-  <a href="https://gist.github.com/Naufal-Tech">
-    <img src="https://profile-counter.glitch.me/Naufal-Tech/count.svg" alt="Naufal-Tech :: Visitor's Count" />
-  </a>
+  <!-- Replaced Glitch counter with Komarev (much more stable) -->
+  <img src="https://komarev.com/ghpvc/?username=Naufal-Tech&label=Profile%20Views&color=0e75b6&style=flat" alt="Naufal-Tech :: Visitor's Count" />
 </p>
