@@ -76,7 +76,7 @@
 <h2 align="center">🏆 GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Naufal-Tech&theme=gruvbox&no-frame=true&no-bg=true&margin=w" alt="naufal-tech trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=naufal-tech&theme=gruvbox" alt="naufal-tech trophies" />
   </a>
 </p>
 <p align="center">
@@ -86,10 +86,10 @@
 </p>
 <p align="center">
   <a href="https://github.com/Naufal-Tech">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naufal-Tech&layout=compact&theme=github_dark" alt="Top Langs" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naufal-Tech&theme=github_dark" alt="Github Stats" />
   </a>
   <a href="https://github.com/Naufal-Tech">
-    <img src="https://github-readme-stats.vercel.app/api?username=Naufal-Tech&theme=github_dark&show_icons=true&count_private=true" alt="Github Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naufal-Tech&theme=github_dark" alt="Top Langs" />
   </a>
 </p>
 <p align="center">
@@ -103,6 +103,5 @@
   </a>
 </p>
 <p align="center">
-  <!-- Replaced Glitch counter with Komarev (much more stable) -->
   <img src="https://komarev.com/ghpvc/?username=Naufal-Tech&label=Profile%20Views&color=0e75b6&style=flat" alt="Naufal-Tech :: Visitor's Count" />
 </p>
